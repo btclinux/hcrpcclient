@@ -1,4 +1,4 @@
-module github.com/decred/dcrd/rpcclient/v7
+module github.com/btclinux/hcrpcclient/v7
 
 go 1.16
 
